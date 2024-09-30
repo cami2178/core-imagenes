@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    height: 890px;
+    width: 900px;
+    background-color:black;
+    border: solid;
+    position: relative;
+    left: 200px;
+}
+
+.fila1{
+    height: 280px;
+    background-color: rgb(241, 151, 234);
+    padding: 10px 50px 10px 50px;
+    display: flex;
+    align-items:center;
+}
+
+.fila2{
+    height: 280px;
+    background-color: rgb(185, 89, 161);
+    padding: 10px 80px 10px 80px;
+    margin-top: 5px; margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.fila3{
+    height: 280px;
+    background-color: rgb(175, 66, 175);
+    padding-left: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.imagen{
+    margin-left: 220px;
+}
+
